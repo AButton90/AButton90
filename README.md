@@ -28,7 +28,7 @@ I am an Industrial Engineer turned Solution Architect, Python Coder with a stron
   - Datadog
   - VS Code
 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning:
   - 100 Days of Code: The Complete Python Pro Bootcamp for 2023
   - The Complete Android 13 App Development Bootcamp 2023
 
