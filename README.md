@@ -9,9 +9,9 @@ I am an Industrial Engineer turned Solution Architect, Python Coder with a stron
 - 🔭 I’ve been employed as an Algorithms Engineer and Product Developer at [TecEx](https://tecex.com/) since October 2020
 
 - 🏭 I've worked as an Industrial and Systems Engineer in these roles:
-  - 2014-2016: Quality and Support Systems Engineer at [Denel Aviation](http://www.denelaeronautics.co.za/)
-  - 2016-2017: Business Process Engineer at [MIP Holdings](https://webserver.mip.co.za/)
   - 2018-2019: Industrial Engineer at [Spar](https://www.spar.co.za/Home)
+  - 2016-2017: Business Process Engineer at [MIP Holdings](https://webserver.mip.co.za/)
+  - 2014-2016: Quality and Support Systems Engineer at [Denel Aviation](http://www.denelaeronautics.co.za/)
 
 - 📖 I'm skilled in these coding languages:
   - Python
